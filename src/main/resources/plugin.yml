@@ -1,0 +1,6 @@
+name: qxkz
+main: com.githhub.startzyp.qxkz
+version: 1.0
+depend: [Vault]
+commands:
+  sban:
